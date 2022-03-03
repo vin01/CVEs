@@ -12,4 +12,4 @@ This is a list of vulnerabilities I have discovered while using or reviewing var
 | CVE-2021-22175 | [Gitlab](https://gitlab.com/gitlab-org/gitlab) | [Unauthenticated SSRF](https://nvd.nist.gov/vuln/detail/CVE-2021-22175) |
 | CVE-2021-22214 | [Gitlab](https://gitlab.com/gitlab-org/gitlab) | [SSRF protection bypass](https://nvd.nist.gov/vuln/detail/CVE-2021-22214) |
 | CVE-2021-39935 | [Gitlab](https://gitlab.com/gitlab-org/gitlab) | [Broken access control](https://nvd.nist.gov/vuln/detail/CVE-2021-39935) |
-| CVE-2022-21716 | TBD | TBD
+| CVE-2022-21716 | [twisted (python)](https://github.com/twisted/twisted) | [Denial of Service](https://github.com/twisted/twisted/security/advisories/GHSA-rv6r-3f5q-9rgx)
